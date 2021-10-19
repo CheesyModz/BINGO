@@ -1,9 +1,4 @@
 #!/bin/bash
-# Cs Moon UserID, Last Name, First Name, student ID number, Section
-# g5huang, Huang, Gary, 501039657, 10
-# s3yue, Yue, Si Yuan, 501061565, 10
-# mbelleza, Belleza, Mark, 501026638, 7
-
 #exit 1 if there is no file
 if [ $# -eq 0 ]; then
       echo "input file missing or unreadable" >/dev/stderr
