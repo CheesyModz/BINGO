@@ -1,1 +1,3 @@
-# LINUX-BINGO-
+# LINUX (BINGO)
+
+Group assignment
