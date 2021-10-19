@@ -21,7 +21,7 @@ For example
 `bash LINUX GoodInputs/badInput1`
 
 # How to run - Bad Inputs (To test program)
-For bad inputs that contain incorrect LINUX cards and seed numbers do \n
+For bad inputs that contain incorrect LINUX cards and seed numbers do
 `bash LINUX BadInputs/fileName`
 For example
 `bash LINUX BadInputs/goodInput0`
