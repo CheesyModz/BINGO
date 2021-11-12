@@ -14,6 +14,9 @@ Each time a key that is not 'q' or 'Q' is entered, it keeps calling a random num
 
 Basically *Bingo*
 
+# Preview
+https://user-images.githubusercontent.com/49135331/141492953-694bc43e-f28d-41c3-a987-e5cfcbfb607f.mp4
+
 # What do download?
 1. LINUX.sh
 2. GoodInputs file
