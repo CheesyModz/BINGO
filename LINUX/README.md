@@ -51,6 +51,10 @@ meet the following conditions listed below
   3.5 Numbers less than 10 contain a zero before ( 0n , where n is the digit)
   3.6 Only numbers
   3.7 Number and a space between them (Example: `11 27 39 59 63`)
+  
+# Contact - For issues/support
+Email: Garyhuang325@gmail.com
+Discord: @ƙag ItsCheeseModz#1997
 </pre>
 
 
