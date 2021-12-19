@@ -1,9 +1,3 @@
-// Cs Moon UserID, Last Name, First Name, student ID number, Section
-// g5huang, Huang, Gary, 501039657, 10
-// s3yue, Yue, Si Yuan, 501061565, 10
-// mbelleza, Belleza, Mark, 501026638, 7
-
-
 #include <stdio.h>     // for printf
 #include <stdlib.h>    // for exit
 #include <ctype.h>     // for toupper, tolower, isdigit, etc
